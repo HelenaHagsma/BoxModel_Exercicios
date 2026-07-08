@@ -1,0 +1,115 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+td{
+    font-weight: bold;
+    text-align: center;
+}
+
+/*-----------ITALIA----------*/
+
+.italia{
+    width: 250px;
+    height: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid black;
+    margin: 5% 20%;
+}
+
+.verde{
+    width: 33.33%;
+    height: 150px;
+    background-color: rgb(0, 155, 52);
+}
+
+.branco{
+    width: 33.33%;
+    height: 150px;
+    background-color: white;
+}
+
+.vermelho{
+    width: 33.33%;
+    height: 150px;
+    background-color: rgb(250, 32, 32);
+}
+
+/*----------POLONIA-------------*/
+
+.polonia{
+    width: 250px;
+    height: 150px;
+    border: 2px solid black;
+    margin: 5% 20%;
+}
+
+.branco-2{
+    width: 250px;
+    height: 50%;
+    background-color: white;
+}
+
+.vermelho-2{
+    width: 250px;
+    height: 50%;
+    background-color: red;
+}
+
+/*----------INGLATERRA-------------*/
+
+.inglaterra{
+    width: 250px;
+    height: 150px;
+    border: 2px solid black;
+    margin: 5% 20%;
+    background-color: white;
+}
+
+.listra-1{
+    background-color: red;
+    width: 6%;
+    height: 150px;
+    position: relative;
+    left: 120px;
+}
+
+.listra-2{
+    background-color: red;
+    width: 250px;
+    height: 10%;
+    position: relative;
+    bottom: 75px;
+}
+
+/*------------BRASIL---------------*/
+
+.brasil{
+    width: 250px;
+    height: 150px;
+    border: 2px solid black;
+    margin: 5% 20%;
+    background-color: rgb(0, 158, 8);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.losango{
+    background-color: yellow;
+    width: 100px;
+    height: 100px;
+    transform: rotate(45deg);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.circulo{
+    background-color: blue;
+    width: 60px;
+    height: 60px;
+    border-radius: 100px;
+}

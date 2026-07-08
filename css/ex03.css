@@ -1,0 +1,37 @@
+div{
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.esqcima{
+    background-color: red;
+    left: 0px;
+    top: 0px;
+}
+
+.dircima{
+    background-color: blue;
+    right: 0px;
+    top: 0px;
+}
+
+.esqbaixo{
+    background-color: green;
+    left: 0px;
+    bottom: 0px;
+}
+
+.dirbaixo{
+    background-color: yellow;
+    right: 0px;
+    bottom: 0px;
+}
+
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
